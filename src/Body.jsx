@@ -21,7 +21,7 @@ function Body() {
             return (
                 setTimeout(() => {
                     setArr(ele)
-                },500)
+                },ind*50)
             )
         })
     },[sortSteps])
@@ -282,7 +282,6 @@ function Body() {
                             <div  key = {ind} className = "bars" style = {{"height": String(ele*3.5) + "px", "width": "1vw"}}/>
                         )
                     })
-
                 }
             </div>
         </div>
