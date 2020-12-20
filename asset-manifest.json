@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/SORTING-ALGO-VISUALIZER/static/css/main.dc759140.chunk.css",
+    "main.js": "/SORTING-ALGO-VISUALIZER/static/js/main.4a954e60.chunk.js",
+    "main.js.map": "/SORTING-ALGO-VISUALIZER/static/js/main.4a954e60.chunk.js.map",
+    "runtime-main.js": "/SORTING-ALGO-VISUALIZER/static/js/runtime-main.fb5a306f.js",
+    "runtime-main.js.map": "/SORTING-ALGO-VISUALIZER/static/js/runtime-main.fb5a306f.js.map",
+    "static/js/2.7980448f.chunk.js": "/SORTING-ALGO-VISUALIZER/static/js/2.7980448f.chunk.js",
+    "static/js/2.7980448f.chunk.js.map": "/SORTING-ALGO-VISUALIZER/static/js/2.7980448f.chunk.js.map",
+    "index.html": "/SORTING-ALGO-VISUALIZER/index.html",
+    "static/css/main.dc759140.chunk.css.map": "/SORTING-ALGO-VISUALIZER/static/css/main.dc759140.chunk.css.map",
+    "static/js/2.7980448f.chunk.js.LICENSE.txt": "/SORTING-ALGO-VISUALIZER/static/js/2.7980448f.chunk.js.LICENSE.txt",
+    "static/media/beep.a1c7e90f.mp3": "/SORTING-ALGO-VISUALIZER/static/media/beep.a1c7e90f.mp3"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fb5a306f.js",
+    "static/js/2.7980448f.chunk.js",
+    "static/css/main.dc759140.chunk.css",
+    "static/js/main.4a954e60.chunk.js"
+  ]
+}
